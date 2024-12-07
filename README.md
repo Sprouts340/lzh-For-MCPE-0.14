@@ -1,5 +1,5 @@
 #  MCPE 0.14.3 文言语言包
-适用于 **Minecraft : Pocket Edtion 0.14.x** 的 **文言** 语言包。
+适用于 Minecraft : Pocket Edtion 0.14.x 的 **文言** 语言包。
 绝大部分来源于 Minecraft : Java 的“文言”语言文件，部分使用 AI 翻译、人工微调。不能保证翻译100%的准确性，仅供参考。
 
 ## 预览截图
