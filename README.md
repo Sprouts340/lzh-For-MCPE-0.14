@@ -1,6 +1,6 @@
 #  MCPE 0.14.3 文言语言包
 大部分从 Java 版 Minecraft 移植过来，剩下部分由 AI 翻译，人工微调。不保证翻译的准确性，仅供娱乐。  
-此语言包适用于Minecraft Pocket-Edtion 0.14.3 其他版本没有测试。  
+此语言包适用于Minecraft Pocket-Edtion 0.14.3 , 其他版本没有测试。  
 
 此语言包由 **xigua** 以及 **Sprouts340** 移植，转载或将此语言包添加到您的客户端请标明。  
 重要: 禁止拿此语言包盈利！
